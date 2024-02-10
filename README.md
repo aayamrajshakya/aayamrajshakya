@@ -1,7 +1,6 @@
 ### Hi there, myself [Aayam Raj Shakya](https://www.linkedin.com/in/aayamrajshakya/) 👋
 
-I am a second year Computer Science undergraduate student at [Mississippi State University](https://www.cse.msstate.edu/), USA. I am a highly driven student actively pursuing an internship or co-op opportunity to apply my technical skills, contribute to innovative projects, and acquire hands-on experience in the field.
-
+I am a second year Computer Science undergraduate student at [Mississippi State University](https://www.cse.msstate.edu/), USA. I am a highly driven student actively pursuing an internship for summer 2024 to apply my programming skills, contribute to innovative projects, and acquire hands-on experience in the tech field. 
 
 ## Skills:
 
