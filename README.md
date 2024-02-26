@@ -31,7 +31,7 @@ I am a second year Computer Science undergraduate student at [Mississippi State 
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=gray">](https://aayamrajshakya.github.io)&nbsp;
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=gray">](https://aayamshakya.com.np/)&nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aayamrajshakya/)&nbsp;
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:as5160@msstate.edu)&nbsp;
 [<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />](mailto:aayamrajshakya@pm.me)&nbsp;
